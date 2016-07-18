@@ -1,6 +1,6 @@
 ### CM85's Repositories
 
-- [Home / cm85.github.io](http://cm85.github.io/)
+- [Home/cm85.github.io](http://cm85.github.io/)
 - [Chloe](https://cm85.github.io/Chloe/)
 - [Peppinos-GiftCards](http://cm85.github.io/Peppinos-GiftCards/)
 - [FamilyPhotoGallery](http://cm85.github.io/FamilyPhotoGallery/)
